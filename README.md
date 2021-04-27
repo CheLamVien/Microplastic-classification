@@ -7,4 +7,5 @@ First, the binary model, plastic vs. nonplastic classifier, is built to determin
 Then, the multiclass classifier with k=8 corresponding to 8 different plastic types is used to identify which specific type of plastic the samples are if they are plastic. 
 This multiclass model is called a plastic-type classifier. 
 The second approach is to solve the microplastic classification task with one multiclass classifier, which directly gives information about analyzed samples based on their spectra. 
-The model in the second approach is called as 1-step model, in which k= 9.
+The model in the second approach is called as 1-step model
+.
